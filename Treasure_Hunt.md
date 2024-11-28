@@ -8,9 +8,9 @@ Your goal is to find the maximum number of coins you can collect starting from t
 ---
 
 ## Suggested Approaches
-1. [Dynamic Programming](Approach1.md)
-2. [Brute Force](Approach2.md)
-3. [Backtracking](Approach3.md)
+1. Dynamic Programming
+2. Brute Force
+3. Backtracking
 
 ---
 
