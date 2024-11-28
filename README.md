@@ -3,9 +3,9 @@ Each problem is structured to inspire creative solutions with multiple approache
 
 
 ## Problems
-1. [The Treasure Hunt](Treasure_Hunt/README.md)
-2. [The Kingdom's Fencing Challenge](Kingdom_Fencing/README.md)
-3. [The Haunted Library](Haunted_Library/README.md)
+1. The Treasure Hunt
+2. The Kingdom's Fencing Challenge
+3. The Haunted Library
 
 ---
 
